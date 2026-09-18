@@ -1,0 +1,26 @@
+student-marks-predictor/
+│
+├── data/
+│   └── student_performance.csv
+│
+├── src/
+│   ├── __init__.py
+│   ├── data_loader.py
+│   ├── data_analysis.py
+│   ├── preprocessing.py
+│   ├── model_training.py
+│   ├── prediction.py
+│   └── visualization.py
+│
+├── tests/
+│   ├── __init__.py
+│   └── test_project.py
+│
+├── outputs/
+│   └── .gitkeep
+│
+├── main.py
+├── requirements.txt
+├── README.md
+├── statement.md
+└── .gitignore
